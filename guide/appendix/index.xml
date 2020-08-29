@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OpenChain KWG – 부록</title>
-    <link>https://haksungjang.github.io/openchain-kwg-new/guide/appendix/</link>
+    <link>https://openChain-project.github.io/OpenChain-KWG/guide/appendix/</link>
     <description>Recent content in 부록 on OpenChain KWG</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://haksungjang.github.io/openchain-kwg-new/guide/appendix/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://openChain-project.github.io/OpenChain-KWG/guide/appendix/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Guide: 1. 오픈소스 정책 for OpenChain 2.0 (template)</title>
-      <link>https://haksungjang.github.io/openchain-kwg-new/guide/appendix/1-policy-template/</link>
+      <link>https://openChain-project.github.io/OpenChain-KWG/guide/appendix/1-policy-template/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://haksungjang.github.io/openchain-kwg-new/guide/appendix/1-policy-template/</guid>
+      <guid>https://openChain-project.github.io/OpenChain-KWG/guide/appendix/1-policy-template/</guid>
       <description>
         
         
@@ -125,10 +125,10 @@ Linux Foundation의 Open Compliance Directory (&lt;a href=&#34;https://complianc
     
     <item>
       <title>Guide: 2. 오픈소스 컴플라이언스 프로세스 (template)</title>
-      <link>https://haksungjang.github.io/openchain-kwg-new/guide/appendix/2-process-template/</link>
+      <link>https://openChain-project.github.io/OpenChain-KWG/guide/appendix/2-process-template/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://haksungjang.github.io/openchain-kwg-new/guide/appendix/2-process-template/</guid>
+      <guid>https://openChain-project.github.io/OpenChain-KWG/guide/appendix/2-process-template/</guid>
       <description>
         
         
@@ -365,10 +365,10 @@ Linux Foundation의 Open Compliance Directory (&lt;a href=&#34;https://complianc
     
     <item>
       <title>Guide: 3. 오픈소스도구 (FOSSology, SW360)</title>
-      <link>https://haksungjang.github.io/openchain-kwg-new/guide/appendix/3-tools/</link>
+      <link>https://openChain-project.github.io/OpenChain-KWG/guide/appendix/3-tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://haksungjang.github.io/openchain-kwg-new/guide/appendix/3-tools/</guid>
+      <guid>https://openChain-project.github.io/OpenChain-KWG/guide/appendix/3-tools/</guid>
       <description>
         
         
